@@ -1,4 +1,5 @@
 # dotfiles
+### for init shell
 
 ```bash
 git clone https://github.com/ava-ut/dotfiles.git
